@@ -1,3 +1,9 @@
+# É necessário instalar a livraria matplotlib para os exercícios 9 e 10
+
+```console
+$ pip3 install matplotlib
+```
+
 Os exercícios 3, 4 e 5 são os prints ex3.png, ex4.png e ex5.png.
 
 Os exercícios 6 e 7 são os documentos ex6.py e ex7(ex6_alterado).py
